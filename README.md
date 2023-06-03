@@ -68,3 +68,19 @@ N:MD
 
 (Weird Tree)
 </pre>
+
+When creating your own graph, you must include both nodes in each other (if that makes sense).
+
+For example:
+
+If you wanted to make a connection from A to B, you must also make a connection from B to A.
+<pre>
+A:B
+B:A
+</pre>
+
+This would not work:
+<pre>
+A:B
+B:A
+</pre>

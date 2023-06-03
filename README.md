@@ -5,9 +5,8 @@ Made using python and pygame.
 The 2 functions in pyghelpfuls are made using chatgpt to calculate the positions of the nodes on the screen and to display text.
 
 # To Run
-- Download all the files.
 - Run Main.py
-- To Change the graph, change what's in the testcase.txt
+- To change the graph, change what's in the testcase.txt
 - To pathfind to 2 nodes, type in the letter of the first node and then the letter of the second node. Press return.
 
   For example: AB FG HK EF

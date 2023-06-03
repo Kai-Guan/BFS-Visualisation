@@ -4,7 +4,7 @@ Made using python and pygame.
 
 The 2 functions in pyghelpfuls.py are made using chatgpt to calculate the positions of the nodes on the screen and to display text.
 
-*(The maths was too complicated for me.)
+*The maths was too complicated for me.*
 
 # To Run
 - Run Main.py

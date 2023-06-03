@@ -19,77 +19,46 @@ Here's the program in action:
 Example testcases:
 
 A:BCE
-
 B:AD
-
 C:ADG
-
 D:BCE
-
 E:ADH
-
 F:
-
 G:C
-
 H:E
 
 (Default testcase included in testcase.txt)
 
 
 A:BEK
-
 B:AC
-
 C:BD
-
 D:C
-
 E:AFH
-
 F:EG
-
 G:F
-
 H:EI
-
 I:HJ
-
 J:I
-
 K:AL
-
 L:K
 
 (A tree)
 
 
 A:BEK
-
 B:AC
-
 C:BD
-
 D:CN
-
 E:AFH
-
 F:EG
-
 G:F
-
 H:EIM
-
 I:HJ
-
 J:I
-
 K:AL
-
 L:K
-
 M:HN
-
 N:MD
 
 (Weird Tree)

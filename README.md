@@ -10,6 +10,7 @@ The 2 functions in pyghelpfuls are made using chatgpt to calculate the positions
   For example: AB FG HK EF
 
 Here's the program in action:
+
 ![alt text](https://github.com/Kai-Guan/BFS-Visualisation/blob/main/BFS%20Graph%20Visualisation.gif "Demonstration of the program")
 
 

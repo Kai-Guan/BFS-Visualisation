@@ -18,6 +18,7 @@ Here's the program in action:
 
 Example testcases:
 
+<pre>
 A:BCE
 B:AD
 C:ADG
@@ -62,3 +63,4 @@ M:HN
 N:MD
 
 (Weird Tree)
+</pre>

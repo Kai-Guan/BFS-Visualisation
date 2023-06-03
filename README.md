@@ -9,6 +9,7 @@ The 2 functions in pyghelpfuls are made using chatgpt to calculate the positions
 - Run Main.py
 - To Change the graph, change what's in the testcase.txt
 - To pathfind to 2 nodes, type in the letter of the first node and then the letter of the second node. Press return.
+
   For example: AB FG HK EF
 
 Here's the program in action:

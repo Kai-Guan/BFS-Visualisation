@@ -137,3 +137,4 @@ while True:
         pyghelpfuls.draw_text(screen, links[i][0], font, (255,255,255), coord[0], coord[1])
 
     pygame.display.flip()
+ 

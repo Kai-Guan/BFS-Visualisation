@@ -12,6 +12,8 @@ The 2 functions in pyghelpfuls.py are made using chatgpt to calculate the positi
 - To pathfind to 2 nodes, type in the letter of the first node and then the letter of the second node. Press return.
 
   For example: AB FG HK EF
+  
+*The program has a simple check to take out inputs that wouldn't work, such as "ae" or Ae" or "A E"*
 
 Here's the program in action:
 

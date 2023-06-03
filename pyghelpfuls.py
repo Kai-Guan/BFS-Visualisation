@@ -26,3 +26,4 @@ def polygon_corners(n, x, y, z):
     
     return [(round(x), round(y)) for x, y in ordered_corners]
     #return ordered_corners
+#functions made by chat gpt, with edits made by me

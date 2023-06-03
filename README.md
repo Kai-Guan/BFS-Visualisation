@@ -82,5 +82,5 @@ B:A
 This would not work:
 <pre>
 A:B
-B:A
+B:
 </pre>

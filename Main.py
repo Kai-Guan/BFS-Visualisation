@@ -89,7 +89,7 @@ pygame.display.set_caption("Graph")
 
 font = pygame.font.SysFont('Arial', 20)
 
-start,end = "A","G"
+start,end = letters[0],letters[0]
 
 text = ""
 text_surf = font.render(text, True, (0, 0, 0))

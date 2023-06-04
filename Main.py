@@ -47,6 +47,8 @@ def BFS(start,end):
             queue.pop(0)
         else:
             break
+    if queue == [] or queue[0] != end:
+        return(start,start)
     #print(paths)
     path = [end]
     x = end
@@ -104,8 +106,7 @@ while True:
             if event.key == pygame.K_RETURN:
                 if len(text) == 2:
                     if text[0] in letters and text[1] in letters:
-                        if nodes[text[0]].neighbours != [] and nodes[text[1]].neighbours != []:
-                            start,end = text[0],text[1]
+                        start,end = text[0],text[1]
             if event.key == pygame.K_BACKSPACE:
                 text = text[:-1]
             else:

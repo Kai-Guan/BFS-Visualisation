@@ -1,4 +1,4 @@
-# BFS-Visualisation 
+# A Visualisation of BFS And a Graph
 
 Made using python and pygame.
 

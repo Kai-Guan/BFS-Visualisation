@@ -2,9 +2,12 @@
 
 Made using python and pygame.
 
-The 2 functions in pyghelpfuls.py are made using chatgpt to calculate the positions of the nodes on the screen and to display text.
-
-*The maths was too complicated for me.*
+<details>
+<summary>The 2 functions in pyghelpfuls.py are made using chatgpt to calculate the positions of the nodes on the screen and to display text.</summary>
+<br>
+*The maths to calculate the coordinates of the nodes spaced out evenly across a circle was too complicated for me.*
+*I was too lazy to make the text show up by myself*
+</details>
 
 # To Run
 - Run Main.py

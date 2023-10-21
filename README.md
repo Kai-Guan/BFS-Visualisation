@@ -17,9 +17,7 @@ Made using python 3.10.7 and pygame 2.1.2.
 - To change the graph, change what's in the testcase.txt
 - To pathfind to 2 nodes, type in the letter of the first node and then the letter of the second node. Press return.
 
-  For example: AB FG HK EF
-  
-*The program has a simple check to take out inputs that wouldn't work, such as "ae" or Ae" or "A E"*
+  For example: AB FG hk ef
 
 Here's the program in action:
 

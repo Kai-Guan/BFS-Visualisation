@@ -15,7 +15,7 @@ Made using python 3.10.7 and pygame 2.1.2.
 # To Run
 - Run Main.py
 - To change the graph, change what's in the testcase.txt
-- To pathfind to 2 nodes, type in the letter of the first node and then the letter of the second node. Press return.
+- To pathfind between 2 nodes, type in the letter of the first node and then the letter of the second node. Press return.
 
   For example: AB FG hk ef
 
